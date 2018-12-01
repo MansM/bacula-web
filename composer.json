@@ -21,7 +21,7 @@
       "novus/nvd3": "@stable",
       "twbs/bootstrap": "3.3.7",
       "eonasdan/bootstrap-datetimepicker": "@stable",
-      "smarty/smarty": "2.6.*",
+      "smarty/smarty": "@stable",
       "smarty-gettext/smarty-gettext": "@stable",
       "components/font-awesome": "4.*",
       "1000hz/bootstrap-validator": "@stable",
